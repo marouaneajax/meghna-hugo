@@ -1,4 +1,4 @@
-baseURL = "https:/diywoodproplans.netlify.com"
+baseURL = "https://woodworkingmasters.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
@@ -101,7 +101,7 @@ pre = ""
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Woodworking Masters"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
 logo = "images/logo.png"
